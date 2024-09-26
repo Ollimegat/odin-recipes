@@ -1,0 +1,39 @@
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+}
+
+body {
+    background-color: beige;
+}
+
+.header,.recipe,.image-container {
+    text-align: center;
+}
+
+.recipe-list {
+    display: inline-block;
+    text-align: left;
+}
+
+.li-text,.text,.item {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.item {
+    color: lightcoral;
+    font-weight: bold;
+}
+
+
+.item:hover {
+    color: black;
+}
+
+.container,.image-container {
+    margin-bottom: 55px;
+}
+
+
